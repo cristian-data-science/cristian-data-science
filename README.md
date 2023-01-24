@@ -1,11 +1,16 @@
 ### Hi there 👋
 
-Hi! 👋 I'm Cristian
-Business Analyst | Data Scientist from Chile,
+👋 Mi nombre es Cristian!
 
-🔭 I am currently learning about machine and deep learning
-🌟 I love learning new things
-🌱 I love python, automate processes and resolve problems with tech
-⚡ Short term goal, to strengthen my knowledge in statistics and calculus to extend the learned algorithms✨.
-😾 I love dogs
-Connect with me: www.linkedin.com/in/cristiangutierrez-ds
+
+Soy Business Analyst y estoy en formación realizando un Master para convertirme en Data Scientist.
+
+🌱 Lenguajes de programación que manejo: Python(con librerías para análisis de datos y la automatización: Matplotlib, Seaborn, Pandas, NumPy, Selenium)
+
+💡 Herramientas: Power BI, SQL, JENKINS, AWS, VSCODE, NO-CODE INTEGRATIONS 
+
+📫 Podes encontrarme y conectar en Linkedin: www.linkedin.com/in/cristiangutierrez-ds donde comparto contenido sobre todos los temas de ciencia de datos que voy incorporando.
+
+En mis repositorios vas a encontrar proyectos sobre web apps, web scraper, bots, apps con docker que puedes utilizar como ejemplo o para prácticar.
+
+👏 ¡Por favor, dame una ⭐️ si te gustan mis repositorios!
