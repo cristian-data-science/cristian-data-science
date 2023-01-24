@@ -16,5 +16,3 @@
 👏 ¡Por favor, dame una ⭐️ si te gustan mis repositorios!
 
 
-Languages and Tools:
-css3 figma firebase git html5 javascript VSCode react
