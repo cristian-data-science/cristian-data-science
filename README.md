@@ -7,7 +7,7 @@
 
 🌱 Lenguajes de programación que manejo: Python(con librerías para análisis de datos y la automatización: Matplotlib, Seaborn, Pandas, NumPy, Selenium)
 
-💡 Herramientas: Power BI, SQL, JENKINS, AWS, VSCODE, NO-CODE INTEGRATIONS 
+💡 Herramientas: Power BI, SQL Server, Jenkins, Aws, VsCode, No-Code Integrations 
 
 📫 Puedes encontrarme y conectar en Linkedin: www.linkedin.com/in/cristiangutierrez-ds donde comparto contenido sobre todos los temas de ciencia de datos que voy incorporando.
 
