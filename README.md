@@ -3,7 +3,7 @@
 👋 Mi nombre es Cristian!
 
 
-⚡ Soy Business Analyst y estoy en formación realizando un Master para convertirme en Data Scientist.
+⚡ Soy un apasionado de la tecnología y estoy en formación realizando un Master para convertirme en Data Scientist.
 
 🌱 Lenguajes de programación que manejo: Python(con librerías para análisis de datos y la automatización: Matplotlib, Seaborn, Pandas, NumPy, Selenium)
 
