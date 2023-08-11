@@ -1,18 +1,26 @@
-### Hi there 👋
+¡Hola! Soy Cristian 👋
 
-👋 Mi nombre es Cristian!
+🚀 Sobre mí:
 
+🔍 Soy un entusiasta de la tecnología y me encuentro en proceso de obtener un Máster en Ciencia de Datos.
+🛠️ Actualmente domino Python y utilizo librerías como Matplotlib, Seaborn, Pandas, NumPy y Selenium para el análisis de datos y automatización.
+🌐 En mis repositorios, descubrirás proyectos publicos relacionados con machine learning, aplicaciones web, web scraping, bots y aplicaciones con Docker.
 
-⚡ Soy un apasionado de la tecnología y estoy en formación realizando un Master para convertirme en Data Scientist.
+🛠 Herramientas & Tecnologías:
 
-🌱 Lenguajes de programación que manejo: Python(con librerías para análisis de datos y la automatización: Matplotlib, Seaborn, Pandas, NumPy, Selenium)
+Lenguajes de Programación: Python
+Bibliotecas: Matplotlib, Seaborn, Pandas, NumPy, Selenium
+Herramientas: Power BI, SQL Server, Jenkins, AWS, VS Code
+Integraciones: No-Code
 
-💡 Herramientas: Power BI, SQL Server, Jenkins, Aws, VsCode, No-Code Integrations 
+🔗 Conecta conmigo:
 
-📫 Puedes encontrarme y conectar en Linkedin: www.linkedin.com/in/cristiangutierrez-ds donde comparto contenido sobre todos los temas de ciencia de datos que voy incorporando.
+🌐 LinkedIn - Aquí comparto contenido valioso y actualizaciones sobre ciencia de datos y más.
 
-⚡ En mis repositorios vas a encontrar proyectos sobre web apps, web scraper, bots, apps con docker que puedes utilizar como ejemplo o para prácticar.
+⭐ Destacados:
 
-👏 ¡Por favor, dame una ⭐️ si te gustan mis repositorios!
+Explora mis repositorios y encontrarás ejemplos prácticos y proyectos listos para ser implementados.
+Siéntete libre de usar mis proyectos como referencia o para tus propias aplicaciones.
+
 
 
