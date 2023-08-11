@@ -13,7 +13,7 @@
 - **Integraciones:** No-Code
 
 ## 🔗 Conéctate conmigo:
-- 🌐 [LinkedIn](www.linkedin.com/in/cristiangutierrez-ds) - Comparto contenido sobre ciencia de datos y más.
+- 🌐 [LinkedIn] (www.linkedin.com/in/cristiangutierrez-ds) - Comparto contenido sobre ciencia de datos y más.
 
 ## ⭐ Destacados:
 - No dudes en explorar mis repositorios. Te ofrecen ejemplos prácticos y proyectos listos para implementarse.
